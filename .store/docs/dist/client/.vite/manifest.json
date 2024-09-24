@@ -1,0 +1,42 @@
+{
+  "../../.store/docs/_index.mdx?__remix-build-client-route": {
+    "file": "assets/_index-DXcQW8Wf.js",
+    "name": "_index",
+    "src": "../../.store/docs/_index.mdx?__remix-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-56DGgGmo.js"
+    ]
+  },
+  "_components-Ciyp1X6x.js": {
+    "file": "assets/components-Ciyp1X6x.js",
+    "name": "components",
+    "imports": [
+      "_jsx-runtime-56DGgGmo.js"
+    ]
+  },
+  "_jsx-runtime-56DGgGmo.js": {
+    "file": "assets/jsx-runtime-56DGgGmo.js",
+    "name": "jsx-runtime"
+  },
+  "app/entry.client.tsx": {
+    "file": "assets/entry.client-CJ_MXSic.js",
+    "name": "entry.client",
+    "src": "app/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-56DGgGmo.js",
+      "_components-Ciyp1X6x.js"
+    ]
+  },
+  "app/root.tsx?__remix-build-client-route": {
+    "file": "assets/root-EMIvD9Pa.js",
+    "name": "root",
+    "src": "app/root.tsx?__remix-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-56DGgGmo.js",
+      "_components-Ciyp1X6x.js"
+    ]
+  }
+}

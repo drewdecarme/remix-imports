@@ -1,0 +1,17 @@
+{
+  "name": "remix-custom-routes-issue",
+  "packageManager": "yarn@4.5.0",
+  "type": "module",
+  "workspaces": {
+    "packages": [
+      "./packages/*"
+    ]
+  },
+  "scripts": {
+    "build": "node ./scripts/build"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "tsx": "^4.19.1"
+  }
+}

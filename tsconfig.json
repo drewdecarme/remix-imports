@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "DOM.Iterable", "ES2022","ESNext"],
+    "moduleResolution": "Bundler",
+    "module": "esnext",
+     "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+  }
+}
