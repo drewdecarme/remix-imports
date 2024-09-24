@@ -1,6 +1,7 @@
 {
   "name": "remix-custom-routes-issue",
   "packageManager": "yarn@4.5.0",
+  "private": true,
   "type": "module",
   "workspaces": {
     "packages": [
